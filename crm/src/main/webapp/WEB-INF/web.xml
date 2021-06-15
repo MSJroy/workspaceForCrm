@@ -92,5 +92,6 @@
         <url-pattern>/workbench/transaction/detail.do</url-pattern>
         <url-pattern>/workbench/transaction/getHistoryListByTranId.do</url-pattern>
         <url-pattern>/workbench/transaction/changeStage.do</url-pattern>
+        <url-pattern>/workbench/transaction/getCharts.do</url-pattern>
     </servlet-mapping>
 </web-app>
