@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="192.168.1.33" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="192.168.1.33">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/crm" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/usr/lib/jvm/apache-tomcat-9.0.46/webapps" local="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm" web="/usr/lib/jvm/apache-tomcat-9.0.46/webapps" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
