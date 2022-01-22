@@ -5,9 +5,8 @@
       <paths name="192.168.1.33">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/crm" web="/" />
-            <mapping local="$PROJECT_DIR$" web="/" />
             <mapping deploy="/usr/lib/jvm/apache-tomcat-9.0.46/webapps" local="$PROJECT_DIR$/crm/src/main/java/com/bjpowernode/crm" web="/usr/lib/jvm/apache-tomcat-9.0.46/webapps" />
+            <mapping local="" />
           </mappings>
         </serverdata>
       </paths>
